@@ -1,5 +1,5 @@
 # KerbalPlanetCards
-A texture pack mod for Balatro that retextures the planet cards + related sprites with planets from Kerbal Space Program
+A set of texture packs for Balatro that retexture the planet cards + related sprites with the planets from Kerbal Space Program
 
 Requires [Steamodded](https://github.com/Steamodded/smods) and [Malverk](https://github.com/Eremel/Malverk)
 
