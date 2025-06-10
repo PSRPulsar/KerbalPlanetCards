@@ -61,10 +61,10 @@ TexturePack{
         'kpc2_boosters',
     },
     loc_txt = {
-        name = 'Stock KSP1',
+        name = 'Stock KSP2',
         text = {
              'Replaces planet cards with planets',
-               'from stock Kerbal Space Program 1'
+               'from stock Kerbal Space Program 2'
         }
     }
 }
