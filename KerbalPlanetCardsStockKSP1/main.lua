@@ -43,6 +43,11 @@ AltTexture{
     original_sheet = true,
     keys = {'c_black_hole'},
     loc_txt = {name = 'Black Hole'},
+    localization = {
+        c_black_hole = {
+            name = 'Magic Boulder'
+        }
+    }
 }
 AltTexture{
     key = 'joker',
