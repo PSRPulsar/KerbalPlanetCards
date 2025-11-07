@@ -25,7 +25,7 @@ return {
                     name = 'Glumo',
                 },
                 c_saturn = {
-                    name = 'Axod',
+                    name = 'Dorau',
                 },
                 c_uranus = {
                     name = 'Rask & Rusk',
